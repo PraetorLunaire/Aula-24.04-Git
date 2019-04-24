@@ -15,6 +15,7 @@
 		16FD6A962270CFBE00C052E3 /* Aula_24_04_GitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16FD6A952270CFBE00C052E3 /* Aula_24_04_GitTests.swift */; };
 		16FD6AA12270CFBE00C052E3 /* Aula_24_04_GitUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16FD6AA02270CFBE00C052E3 /* Aula_24_04_GitUITests.swift */; };
 		16FD6AAF2270D23A00C052E3 /* Receitas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16FD6AAE2270D23A00C052E3 /* Receitas.swift */; };
+		16FD6AB12270D68C00C052E3 /* Favoritos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16FD6AB02270D68C00C052E3 /* Favoritos.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		16FD6AA02270CFBE00C052E3 /* Aula_24_04_GitUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Aula_24_04_GitUITests.swift; sourceTree = "<group>"; };
 		16FD6AA22270CFBE00C052E3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		16FD6AAE2270D23A00C052E3 /* Receitas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Receitas.swift; sourceTree = "<group>"; };
+		16FD6AB02270D68C00C052E3 /* Favoritos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Favoritos.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				16FD6A892270CFBE00C052E3 /* LaunchScreen.storyboard */,
 				16FD6A8C2270CFBE00C052E3 /* Info.plist */,
 				16FD6AAE2270D23A00C052E3 /* Receitas.swift */,
+				16FD6AB02270D68C00C052E3 /* Favoritos.swift */,
 			);
 			path = "Aula 24.04 Git";
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				16FD6A832270CFBD00C052E3 /* ViewController.swift in Sources */,
 				16FD6A812270CFBD00C052E3 /* AppDelegate.swift in Sources */,
 				16FD6AAF2270D23A00C052E3 /* Receitas.swift in Sources */,
+				16FD6AB12270D68C00C052E3 /* Favoritos.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

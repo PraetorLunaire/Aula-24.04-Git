@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         print("Carregou a primeira tela")
         
         print("Isso deveria estar aqui")
+        
     }
 
 
