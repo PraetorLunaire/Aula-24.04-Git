@@ -14,6 +14,7 @@
 		16FD6A8B2270CFBE00C052E3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 16FD6A892270CFBE00C052E3 /* LaunchScreen.storyboard */; };
 		16FD6A962270CFBE00C052E3 /* Aula_24_04_GitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16FD6A952270CFBE00C052E3 /* Aula_24_04_GitTests.swift */; };
 		16FD6AA12270CFBE00C052E3 /* Aula_24_04_GitUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16FD6AA02270CFBE00C052E3 /* Aula_24_04_GitUITests.swift */; };
+		16FD6AAF2270D23A00C052E3 /* Receitas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16FD6AAE2270D23A00C052E3 /* Receitas.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		16FD6A9C2270CFBE00C052E3 /* Aula 24.04 GitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Aula 24.04 GitUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		16FD6AA02270CFBE00C052E3 /* Aula_24_04_GitUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Aula_24_04_GitUITests.swift; sourceTree = "<group>"; };
 		16FD6AA22270CFBE00C052E3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		16FD6AAE2270D23A00C052E3 /* Receitas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Receitas.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				16FD6A872270CFBE00C052E3 /* Assets.xcassets */,
 				16FD6A892270CFBE00C052E3 /* LaunchScreen.storyboard */,
 				16FD6A8C2270CFBE00C052E3 /* Info.plist */,
+				16FD6AAE2270D23A00C052E3 /* Receitas.swift */,
 			);
 			path = "Aula 24.04 Git";
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			files = (
 				16FD6A832270CFBD00C052E3 /* ViewController.swift in Sources */,
 				16FD6A812270CFBD00C052E3 /* AppDelegate.swift in Sources */,
+				16FD6AAF2270D23A00C052E3 /* Receitas.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
